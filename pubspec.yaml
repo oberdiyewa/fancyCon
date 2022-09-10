@@ -9,11 +9,6 @@ homepage: https://github.com/oberdiyewa/fancyCon
 environment:
   sdk: ">=2.18.0 <3.0.0"
   flutter: ">=1.17.0"
-  fancyCon:
-    git:
-      url: git@github.com:oberdiyewa/fancyCon.git
-      ref: main
-
 dependencies:
   flutter:
     sdk: flutter
